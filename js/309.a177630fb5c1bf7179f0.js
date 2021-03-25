@@ -1,0 +1,2 @@
+(self.webpackChunksubscription_central=self.webpackChunksubscription_central||[]).push([[309],{92309:(e,n,t)=>{"use strict";t.r(n),t.d(n,{default:()=>u});var i=t(77865),c=t.n(i),l=t(334),r=t(86350),s=t(27839);const u=(0,l.withRouter)((function(){return(0,i.useEffect)((function(){var e,n,t;null===(e=insights)||void 0===e||null===(n=e.chrome)||void 0===n||null===(t=n.appAction)||void 0===t||t.call(n,"no-permissions")}),[]),c().createElement(r.Z,null,c().createElement(s.Z,{serviceName:"Subscription Central"}))}))}}]);
+//# sourceMappingURL=309.a177630fb5c1bf7179f0.js.map
