@@ -1,12 +1,12 @@
 {
   "app_name": "subscription-central",
-  "src_hash": "16bd154d5b4c9e614309c4676b326ec3b9b68bb9",
+  "src_hash": "637219c11dcdec425fe472b9ce3e3bd72b80e2e7",
   "src_tag": "",
   "src_branch": "main",
   "patternfly_dependencies": ["@patternfly/patternfly@4.90.5","@patternfly/react-core@4.101.3","@patternfly/react-table@4.23.14"],
   "travis": {
     "event_type": "push",
-    "build_number": "80",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/subscription-central-ui/builds/221181298"
+    "build_number": "88",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/subscription-central-ui/builds/221342679"
   }
 }
