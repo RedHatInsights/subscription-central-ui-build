@@ -1,10 +1,10 @@
 {
-    "subscriptionCentral": {
+    "manifests": {
         "entry": [
-            "/beta/apps/subscription-central/subscriptionCentral.4c4d1ca0adbd6b922057.js"
+            "/beta/apps/manifests/manifests.46b38422961807257db4.js"
         ],
         "modules": [
-            "/beta/apps/subscription-central/js/374.d2074842a07070067d43.js"
+            "/beta/apps/manifests/js/374.d2074842a07070067d43.js"
         ]
     }
 }
