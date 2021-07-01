@@ -1,12 +1,12 @@
 {
   "app_name": "manifests",
-  "src_hash": "45ba3ccc663e4d81a82b67d6748380ad3b286240",
+  "src_hash": "e1e07a01cffbf3d1b780692ade8a71e882230a5e",
   "src_tag": "",
   "src_branch": "main",
   "patternfly_dependencies": ["@patternfly/patternfly@4.90.5","@patternfly/react-core@4.101.3","@patternfly/react-table@4.23.14"],
   "travis": {
     "event_type": "push",
-    "build_number": "551",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/subscription-central-ui/builds/231272424"
+    "build_number": "567",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/subscription-central-ui/builds/231558694"
   }
 }
