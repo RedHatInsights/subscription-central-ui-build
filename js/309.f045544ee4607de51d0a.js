@@ -1,2 +1,0 @@
-(self.webpackChunksubscription_central=self.webpackChunksubscription_central||[]).push([[309],{92309:(e,n,t)=>{"use strict";t.r(n),t.d(n,{default:()=>u});var s=t(77865),i=t.n(s),c=t(334),l=t(86350),r=t(27839);const u=(0,c.withRouter)((function(){return(0,s.useEffect)((function(){var e,n,t;null===(e=insights)||void 0===e||null===(n=e.chrome)||void 0===n||null===(t=n.appAction)||void 0===t||t.call(n,"no-permissions")}),[]),i().createElement(l.Z,null,i().createElement(r.Z,{serviceName:"Manifests"}))}))}}]);
-//# sourceMappingURL=309.f045544ee4607de51d0a.js.map
