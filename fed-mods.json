@@ -1,10 +1,10 @@
 {
     "manifests": {
         "entry": [
-            "/beta/apps/manifests/manifests.1660854835659.c06517c0f9d97fe93267.js"
+            "/beta/apps/manifests/manifests.1660922662021.1dc53be608b47289896d.js"
         ],
         "modules": [
-            "/beta/apps/manifests/js/937.1660854835583.c06517c0f9d97fe93267.js",
+            "/beta/apps/manifests/js/937.1660922661949.1dc53be608b47289896d.js",
             "/beta/apps/manifests/css/937.c5cf17ef8ef6bec4cc09.css"
         ]
     }
