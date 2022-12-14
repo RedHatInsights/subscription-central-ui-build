@@ -1,11 +1,11 @@
 {
     "manifests": {
         "entry": [
-            "/beta/apps/manifests/manifests.1670946307943.e0aead423cd12fa184db.js"
+            "/beta/apps/manifests/manifests.1671052499440.9a3d5bb33db66c09d0eb.js"
         ],
         "modules": [
             "/beta/apps/manifests/css/620.css",
-            "/beta/apps/manifests/js/620.1670946307844.e0aead423cd12fa184db.js"
+            "/beta/apps/manifests/js/620.1671052499340.9a3d5bb33db66c09d0eb.js"
         ]
     }
 }
