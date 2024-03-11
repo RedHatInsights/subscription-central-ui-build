@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksubscription_central=self.webpackChunksubscription_central||[]).push([[684],{8412:(e,t,r)=>{r.r(t),r.d(t,{default:()=>a});var n=r(8416),c=r.n(n),s=r(7858),l=r(319),u=r(4384);const a=function(e){var t=e.logger;return c().createElement(s.zt,{store:(t?(0,l.S1)(t):(0,l.S1)()).getStore()},c().createElement(u.Z,null))}}}]);
+//# sourceMappingURL=../sourcemaps/684.26c1efd4a75355813d5dc5fd5318a0b0.js.map
